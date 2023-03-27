@@ -7,5 +7,9 @@ public class MavenTest {
 	public void test() {
 		System.out.println("login homepage");
 	}
+	@Test
+	public void testcase() {
+		System.out.println("execute testcase");
+	}
 
 }
